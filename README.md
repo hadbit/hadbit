@@ -1,5 +1,6 @@
 - 👋 Hadbit
 - 👀 NOT interested.
+- 🌱 Reigniting the dream of numbers.
 
 <!---
 hadbit/hadbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
