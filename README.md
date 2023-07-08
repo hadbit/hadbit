@@ -1,5 +1,3 @@
-- 👋 Hadbit
-- 👀 NOT interested.
 - 🌱 Reigniting the dream of numbers.
 
 <!---
